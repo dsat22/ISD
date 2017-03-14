@@ -1,2 +1,0 @@
-# ISD
-Demo for ISDS
